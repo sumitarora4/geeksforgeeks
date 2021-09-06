@@ -4,7 +4,7 @@ public class ReverseWordsInString {
 
     public static void main(String[] arg){
 
-        String str = "Welcome to Geeks";
+        String str = "Welcome to Code";
         char[] chArr = str.toCharArray();
 
         reverseWords(chArr, chArr.length);
